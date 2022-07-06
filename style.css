@@ -37,3 +37,20 @@ h1{
 .dream-big{
     background-image: url(background-2462434_1920\ \(2\).jpg);
 }
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+#Full-stack-developer{
+    border-left: 5px solid blue;
+}
+#baby-web-developer{
+    border-left:5px solid tomato;
+}
+footer p {
+    text-align: center;
+}
