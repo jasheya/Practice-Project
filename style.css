@@ -7,12 +7,14 @@ h1{
 }
 .paragraph-colour{
     color: rgb(86, 86, 138);
+    display: flex;
 }
 .Highlight-Colour{
     color: deeppink;
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -31,5 +33,8 @@ section{
     font-weight: 700;
 }
 .first-section-background{
-   background-image: url(background-2462434_1920.jpg); 
+   background-image: url(background-2462434_1920\ \(2\).jpg); 
+}
+.dream-big{
+    background-image: url(background-2462434_1920\ \(2\).jpg);
 }
