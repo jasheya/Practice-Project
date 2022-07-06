@@ -1,9 +1,35 @@
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
 }
+.paragraph-colour{
+    color: rgb(86, 86, 138);
+}
 .Highlight-Colour{
     color: deeppink;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.half-width-image{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(119, 93, 233),rgb(184, 184, 221));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.first-section-background{
+   background-image: url(background-2462434_1920.jpg); 
 }
